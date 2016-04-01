@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:15
+-keep class com.jirbo.adcolony.AdColonyBrowser { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class com.jirbo.adcolony.AdColonyFullscreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.jirbo.adcolony.AdColonyOverlay { <init>(...); }
+
+# view AndroidManifest.xml #generated:7
+-keep class org.cocos2dx.cpp.AppActivity { <init>(...); }
+
